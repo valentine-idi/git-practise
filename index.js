@@ -5,5 +5,3 @@ function greet(message) {
 
   return message;
 }
-
-greet("Hello world");
